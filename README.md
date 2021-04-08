@@ -1,12 +1,14 @@
-### 👋Hi there!     <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=pravesh-pandey.pravesh-pandey"/>
-## I am Pravesh Pandey
+<h2> 👋Hi there!</h2>     <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=pravesh-pandey.pravesh-pandey"/>
+<h1> I am Pravesh Pandey</h1>
 <br>
 <p align="left">
+  <h3>
 <img src="https://user-images.githubusercontent.com/58443282/114050007-8ac51980-98a9-11eb-8dea-a162f9c69cb6.png" width="20"> &nbsp; I am a web developer and a Robotics Enthusiast and I like to experiment with new technologies.
 <br>
 <img src="https://user-images.githubusercontent.com/58443282/114054658-acc09b00-98ad-11eb-8f08-5f76e2a63f71.png" width="20"> &nbsp; I'm currently pursuing B.Tech from MNNIT Allahabad.
 <br>
 <img src="https://user-images.githubusercontent.com/58443282/114054922-e85b6500-98ad-11eb-9394-a59dd6f14a1a.png" width="20"> &nbsp; I have hand on experience in Data Structure and Algorithms.
+    </h3>
 </p>
 <hr>
 <br>
