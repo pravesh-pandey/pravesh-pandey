@@ -35,7 +35,8 @@
 ![ROS](https://img.shields.io/badge/-Robot%20Operating%20System-white?style=flat&logo=ros&logoColor=grey)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=Windows-Terminal&logoColor=4D4D4D)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Linux-white?style=flat&logo=ubuntu&logoColor=orange)&nbsp;
-><h2> ⚙️ GitHub Analytics</h2> 
+<hr>
+<h2> ⚙️ GitHub Analytics</h2> 
 
 <br>
 <a style=" padding-bottom: 25px;" href="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=cobalt">
