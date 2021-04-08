@@ -11,7 +11,6 @@
     </h3>
 </p>
 <hr>
-<br>
 <h2>🛠&nbsp;Tech Stack</h2>
 
 ![C](https://img.shields.io/badge/-C-white?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -38,26 +37,24 @@
 ![Ubuntu](https://img.shields.io/badge/-Linux-white?style=flat&logo=ubuntu&logoColor=orange)&nbsp;
 
 <hr>
-⚙️ &nbsp;GitHub Analytics 
+<h2> ⚙️ GitHub Analytics</h2>
+ GitHub Analytics 
 
 <br>
-<a href="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=cobalt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=radical&custom_title=My GitHub statistic" />
+<a style=" padding-bottom: 25px;" href="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=cobalt">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=radical&custom_title=My GitHub statistic" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=10&theme=radical" />
 </a>
 <br> 
-<br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pravesh-pandey) 
 <hr>
-<h2> <img src="https://user-images.githubusercontent.com/58443282/114056134-fa89d300-98ae-11eb-885b-a514601bcaa2.png" width="40"> &nbsp;I’m looking to collaborate on Back-end Development.</h2>
+<h2> <img src="https://user-images.githubusercontent.com/58443282/114056134-fa89d300-98ae-11eb-885b-a514601bcaa2.png" width="40"> &nbsp;I’m looking to collaborate on Back-end web Development.</h2>
 <hr>
 <h2> <img src="https://user-images.githubusercontent.com/58443282/114053740-d9c07e00-98ac-11eb-9d3a-0e9264366126.png" width="40"> &nbsp; How to reach me:
 </h2>
-<br>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/pravesh25/"><img src="https://img.shields.io/badge/-Pravesh%20Pandey%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pravesh25pandey@gmail.com"><img src="https://img.shields.io/badge/-pravesh25pandey@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
