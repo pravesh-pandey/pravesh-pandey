@@ -46,7 +46,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=10&theme=radical" />
 </a>
 
->![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pravesh-pandey) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pravesh-pandey) 
 <hr>
 <h2> <img src="https://user-images.githubusercontent.com/58443282/114056134-fa89d300-98ae-11eb-885b-a514601bcaa2.png" width="40"> &nbsp;I’m looking to collaborate on Back-end web Development.</h2>
 <hr>
