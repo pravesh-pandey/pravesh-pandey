@@ -39,7 +39,7 @@
 <h2> ⚙️ GitHub Analytics</h2> 
 
 <br>
-<a style=" padding-bottom: 25px;" href="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=cobalt">
+<a  href="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=cobalt">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=radical&custom_title=My GitHub statistic" />
 </a>
 
