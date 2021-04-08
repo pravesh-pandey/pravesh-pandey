@@ -29,8 +29,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Juypter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=flat&logo=Jupyter)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat&logo=arduino)&nbsp;
-![PhotoShop](https://img.shields.io/badge/-Adobe%20Photoshop-white?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)&nbsp;
-![ROS](https://img.shields.io/badge/-Robot%20Operating%20System-white?style=flat&logo=ros&logoColor=grey)&nbsp;\
+![PhotoShop](https://img.shields.io/badge/-Adobe%20Photoshop-white?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)&nbsp;\
+![ROS](https://img.shields.io/badge/-Robot%20Operating%20System-white?style=flat&logo=ros&logoColor=grey)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=Windows-Terminal&logoColor=4D4D4D)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Linux-white?style=flat&logo=ubuntu&logoColor=orange)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
