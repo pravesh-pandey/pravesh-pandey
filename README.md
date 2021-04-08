@@ -4,7 +4,7 @@
 <p align="left">
 <img src="https://user-images.githubusercontent.com/58443282/114050007-8ac51980-98a9-11eb-8dea-a162f9c69cb6.png" width="20">  I am a web developer and a Robotics Enthusiast and I like to experiment with new technologies.
 <br>
-<img src="https://user-images.githubusercontent.com/58443282/114051833-14291b80-98ab-11eb-8f45-813acd5382cb.png" width="20">  I'm currently pursuing B.Tech from MNNIT Allahabad.
+<img src="https://user-images.githubusercontent.com/58443282/114054658-acc09b00-98ad-11eb-8f08-5f76e2a63f71.png" width="20">  I'm currently pursuing B.Tech from MNNIT Allahabad.
 <br>
 <img src="https://user-images.githubusercontent.com/58443282/114052870-0cb64200-98ac-11eb-85e1-0018db0419e7.png" width="20">  I am a web developer and a Robotics Enthusiast and I like to experiment with new technologies.
 </p>
