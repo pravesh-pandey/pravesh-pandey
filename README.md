@@ -17,20 +17,20 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![react](https://img.shields.io/badge/-React-white?style=flat&logo=React&logoColor=0769AD)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-white?style=flat&logo=Express&logoColor=000000)&nbsp;
-![jquery](https://img.shields.io/badge/-jQuery-white?style=flat&logo=jquery&logoColor=0769AD)&nbsp;
+![jquery](https://img.shields.io/badge/-jQuery-white?style=flat&logo=jquery&logoColor=0769AD)&nbsp;\
 ![Django](https://img.shields.io/badge/-Django-white?style=flat&logo=django&logoColor=brightgreen)&nbsp;
 ![Sqlite](https://img.shields.io/badge/-SQLite-white?style=flat&logo=SQLite&logoColor=003B57)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap4-white?style=flat&logo=bootstrap&logoColor=7952B3)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-white?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=181717)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=181717)&nbsp;\
 ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Juypter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=flat&logo=Jupyter)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat&logo=arduino)&nbsp;
 ![PhotoShop](https://img.shields.io/badge/-Adobe%20Photoshop-white?style=flat&logo=Adobe%20Photoshop&logoColor=31A8FF)&nbsp;
-![ROS](https://img.shields.io/badge/-Robot%20Operating%20System-white?style=flat&logo=ros&logoColor=grey)&nbsp;
+![ROS](https://img.shields.io/badge/-Robot%20Operating%20System-white?style=flat&logo=ros&logoColor=grey)&nbsp;\
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=Windows-Terminal&logoColor=4D4D4D)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Linux-white?style=flat&logo=ubuntu&logoColor=orange)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
