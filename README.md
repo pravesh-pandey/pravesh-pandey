@@ -6,7 +6,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/58443282/114054658-acc09b00-98ad-11eb-8f08-5f76e2a63f71.png" width="20">  I'm currently pursuing B.Tech from MNNIT Allahabad.
 <br>
-<img src="https://user-images.githubusercontent.com/58443282/114052870-0cb64200-98ac-11eb-85e1-0018db0419e7.png" width="20">  I am a web developer and a Robotics Enthusiast and I like to experiment with new technologies.
+<img src="https://user-images.githubusercontent.com/58443282/114054922-e85b6500-98ad-11eb-9394-a59dd6f14a1a.png" width="20">  I have on experience in Data Structure and Algorithms.
 </p>
 <br>
 <hr>
