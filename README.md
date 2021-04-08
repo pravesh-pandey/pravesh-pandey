@@ -35,15 +35,13 @@
 ![ROS](https://img.shields.io/badge/-Robot%20Operating%20System-white?style=flat&logo=ros&logoColor=grey)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=Windows-Terminal&logoColor=4D4D4D)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Linux-white?style=flat&logo=ubuntu&logoColor=orange)&nbsp;
-
-<hr>
-<h2> ⚙️ GitHub Analytics</h2>
- GitHub Analytics 
+><h2> ⚙️ GitHub Analytics</h2> 
 
 <br>
 <a style=" padding-bottom: 25px;" href="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=cobalt">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=radical&custom_title=My GitHub statistic" />
 </a>
+
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=10&theme=radical" />
 </a>
