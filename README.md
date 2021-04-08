@@ -1,4 +1,4 @@
-### 👋Hi there! <img align="right" src"https://visitor-badge.glitch.me/badge?page_id=pravesh-pandey.pravesh-pandey" />
+### 👋Hi there!     <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=pravesh-pandey.pravesh-pandey"/>
 ## I am Pravesh Pandey
 <!--
 **pravesh-pandey/pravesh-pandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
