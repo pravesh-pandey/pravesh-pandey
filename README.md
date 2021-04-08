@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=10&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=10&theme=radical" />
 </a>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pravesh-pandey) 
