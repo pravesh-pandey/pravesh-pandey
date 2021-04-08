@@ -8,8 +8,9 @@
 <br>
 <img src="https://user-images.githubusercontent.com/58443282/114054922-e85b6500-98ad-11eb-9394-a59dd6f14a1a.png" width="20"> &nbsp; I have hand on experience in Data Structure and Algorithms.
 </p>
+<hr>
 <br>
-###  🛠  &nbsp;Tech Stack
+###🛠&nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-white?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -33,6 +34,7 @@
 ![ROS](https://img.shields.io/badge/-Robot%20Operating%20System-white?style=flat&logo=ros&logoColor=grey)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=Windows-Terminal&logoColor=4D4D4D)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Linux-white?style=flat&logo=ubuntu&logoColor=orange)&nbsp;
+<hr>
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
 <a href="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=cobalt">
@@ -45,7 +47,9 @@
 <br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pravesh-pandey) 
-## <img src="https://user-images.githubusercontent.com/58443282/114056134-fa89d300-98ae-11eb-885b-a514601bcaa2.png" width="40"> &nbsp;I’m looking to collaborate on 
+<hr>
+## <img src="https://user-images.githubusercontent.com/58443282/114056134-fa89d300-98ae-11eb-885b-a514601bcaa2.png" width="40"> &nbsp;I’m looking to collaborate on Back-end Development.
+<hr>
 ## <img src="https://user-images.githubusercontent.com/58443282/114053740-d9c07e00-98ac-11eb-9d3a-0e9264366126.png" width="40"> &nbsp; How to reach me:
 <br>
 
