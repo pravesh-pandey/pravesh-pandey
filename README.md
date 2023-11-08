@@ -39,9 +39,7 @@
 <h2> ⚙️ GitHub Analytics</h2> 
 
 <br>
-<a  href="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=cobalt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=radical&custom_title=My GitHub statistic" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=pravesh-pandey&show_icons=true&theme=radical" />
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=8">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravesh-pandey&layout=compact&langs_count=10&theme=radical" />
