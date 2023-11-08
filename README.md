@@ -1,4 +1,4 @@
-<h2> 👋Hi there!</h2>     <p align="right"> <img src="https://komarev.com/ghpvc/?username=pravesh-pandey" alt="pravesh-pandey" /> </p>
+<h2> 👋Hi!</h2>     <p align="right"> <img src="https://komarev.com/ghpvc/?username=pravesh-pandey" alt="pravesh-pandey" /> </p>
 <h1> I am Pravesh Pandey</h1>
 <br>
 <p align="left">
